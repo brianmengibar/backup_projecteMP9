@@ -1,1 +1,0 @@
-**FITXER A ESBORRAR**
