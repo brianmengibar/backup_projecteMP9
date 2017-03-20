@@ -15,6 +15,7 @@ pandoc \
 		--standalone \
 		--from=markdown \
 		--to=html \
+		--template=plantilla_pandoc.html \
 		--output=attach.html \
 		attach.md
 
